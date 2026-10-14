@@ -1,0 +1,11 @@
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pytest
+  - ruff
+  - sqlalchemy
+  - jupysql
+  - sqlite
